@@ -1,4 +1,4 @@
-## Simple Weather Web App
+## Simple Weather Web App (for fun)
 General functionalities:
 1. Search Location
 2. Display weather condition, humidity, and wind speed information
