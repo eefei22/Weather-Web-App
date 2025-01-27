@@ -185,6 +185,12 @@ body{
 
 .icon {
     width: auto;
-    height: 0.5em;
+    height: 1em;
     margin: 5px;
+}
+
+.BIGicon {
+    width: auto;
+    height: 2em;
+    margin-right: 20px;
 }
